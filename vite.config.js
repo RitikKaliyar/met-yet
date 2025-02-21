@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(), 
     tailwindcss(),
   ],
-  base:"met-yet"
+  base:"/met-yet"
 })
